@@ -81,6 +81,7 @@ PRODUCT_PACKAGES += \
 
 # Optional packages
 PRODUCT_PACKAGES += \
+    Apollo \
     Basic \
     HoloSpiralWallpaper \
     NoiseField \
