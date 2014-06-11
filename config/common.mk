@@ -98,7 +98,6 @@ PRODUCT_PACKAGES += \
     SlimCenter \
     SlimFileManager \
     LatinIME \
-    SlimIRC \
     BluetoothExt \
     DashClock
 
